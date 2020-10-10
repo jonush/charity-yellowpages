@@ -1,0 +1,12 @@
+.charity-list {
+  position: relative;
+}
+
+.content-wrapper {
+  max-width: 980px;
+  padding: 0 20px;
+  margin: 100px auto;
+  display: grid;
+  grid-template-columns: 500px auto;
+  gap: 40px;
+}
